@@ -1,3 +1,3 @@
-FROM ruby:3.1.3
+FROM ruby:3.4.7
 
 LABEL maintainer="phithon <root@leavesongs.com>"
